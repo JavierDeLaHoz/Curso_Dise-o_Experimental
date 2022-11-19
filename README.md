@@ -1,2 +1,2 @@
-# Curso_Dise-o_Experimental
+# Curso_Diseño_Experimental
 Material del curso de Diseño Experimental
